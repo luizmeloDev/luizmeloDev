@@ -1,4 +1,4 @@
-### Hello 👋. I'm Luiz Melo and I'm a Developer.
+### Hi there👋. I'm Luiz Melo and I'm a Developer.
 
 
 <div align="center">
